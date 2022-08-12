@@ -2,4 +2,4 @@
 
 descriptions
 
-detail
+details
